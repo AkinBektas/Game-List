@@ -13,6 +13,8 @@ class ViewController: UIViewController, UIPageViewControllerDataSource {
     var pageViewController: UIPageViewController!
     var pageTitles: NSArray!
     var pageImages: NSArray!
+    var people:[person]?
+    var groups:[group]?
     
     
     override func viewDidLoad() {

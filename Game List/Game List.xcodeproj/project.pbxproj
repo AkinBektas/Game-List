@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E72BEFF01BD048DB00E242C2 /* ContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E72BEFEF1BD048DB00E242C2 /* ContentViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		E7613A9B1BC65C6A0008E9D9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7613A9A1BC65C6A0008E9D9 /* AppDelegate.swift */; };
 		E7613A9D1BC65C6A0008E9D9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7613A9C1BC65C6A0008E9D9 /* ViewController.swift */; };
 		E7613AA01BC65C6A0008E9D9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7613A9E1BC65C6A0008E9D9 /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E72BEFEF1BD048DB00E242C2 /* ContentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentViewController.swift; sourceTree = "<group>"; };
 		E7613A971BC65C6A0008E9D9 /* Game List.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Game List.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7613A9A1BC65C6A0008E9D9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E7613A9C1BC65C6A0008E9D9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				E7613A9A1BC65C6A0008E9D9 /* AppDelegate.swift */,
 				E7613A9C1BC65C6A0008E9D9 /* ViewController.swift */,
 				E7613A9E1BC65C6A0008E9D9 /* Main.storyboard */,
+				E72BEFEF1BD048DB00E242C2 /* ContentViewController.swift */,
 				E7613AA41BC65C6A0008E9D9 /* Assets.xcassets */,
 				E7613AA61BC65C6A0008E9D9 /* LaunchScreen.storyboard */,
 				E7613AA91BC65C6A0008E9D9 /* Info.plist */,
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E72BEFF01BD048DB00E242C2 /* ContentViewController.swift in Sources */,
 				E7613AA31BC65C6A0008E9D9 /* Game_List.xcdatamodeld in Sources */,
 				F57EEA0A1BCF94AD00EBDBAC /* person.swift in Sources */,
 				E7613A9D1BC65C6A0008E9D9 /* ViewController.swift in Sources */,
